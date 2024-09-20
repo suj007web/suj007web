@@ -1,5 +1,4 @@
-<script type="module" src="https://unpkg.com/@splinetool/viewer@1.9.27/build/spline-viewer.js"></script>
-<spline-viewer url="https://prod.spline.design/nFdG8A6vxllqO0p0/scene.splinecode"></spline-viewer>
+
 # 💫 About Me:
 💻Java Developer<br>👨‍💻Full Stack Developer specialized in MERN<br>🧑‍🎓 Sophomore in Information Technology<br>👀 Seeking opportunities to collaborate with like-minded individuals<br>⚡ I bench 225
 
